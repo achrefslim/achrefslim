@@ -1,27 +1,77 @@
 <h1 align="center">Hi 👋, I'm Achref Slimen</h1>
-<h3 align="center">Future Embedded Systems Engineer , from Tunisia</h3>
+<h3 align="center">Embedded Systems and AI Engineer from Tunisia 🇹🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achrefslim" alt="achrefslim" /></a> </p>
-
-- 📫 How to reach me **acslimen@gmail.com**
-
-- ⚡ Fun fact **I'm professionnel PowerPoint user**
-  <img align="right" height="212" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/slimen-achref-803747239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/slimen-achref-803747239" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/achref.slimen.862459?locale=fr_fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/achref.slimen.862459?locale=fr_fr" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/slimen-achref-803747239"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=achrefslim&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
+I build systems where **hardware meets software**: from the PCB and the microcontroller firmware, to the cloud, the AI model and the dashboard on top.
 
+🔌 **Embedded and IoT:** ESP32, ATmega32, Arduino, Raspberry Pi, sensors, Firebase real time systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+🧠 **AI and Computer Vision:** YOLOv8 detection and segmentation, OpenCV, Vision Language Models, machine learning forecasting
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achrefslim&show_icons=true&locale=en&layout=compact" alt="achrefslim" /></p>
+🛠️ **Hardware design:** PCB design in Altium Designer, LabVIEW instrumentation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achrefslim&show_icons=true&locale=en" alt="achrefslim" /></p>
+🌐 **Software:** React dashboards, Flask and FastAPI backends, Expo mobile apps, Chrome extensions, PyQt desktop tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achrefslim&theme=dark" alt="achrefslim" /></p>
+## 🚀 Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [AI Solar Panel Monitoring System](https://github.com/achrefslim/AI_Solar_Panel_Monitoring_System) | Measures a solar panel, predicts its production with live weather, detects dirt and cleans it. Built for the CASS TSYP13 Challenge | ESP32, scikit learn, FastAPI, Ollama, React |
+| [Eczema Detection using VLM](https://github.com/achrefslim/Eczema_Detection_VLM) | Detects eczema on skin photos, measures each lesion and writes a full PDF dermatology report with a Vision Language Model | YOLOv8, OpenCV, Gemini, Flask, React |
+| [YOLO Skin Disease Segmentation](https://github.com/achrefslim/YOLO_Skin_Disease_Segmentation) | Instance segmentation model that outlines 17 skin diseases | YOLOv8, PyTorch |
+| [Smart Solar Irrigation IoT](https://github.com/achrefslim/Smart_Solar_Irrigation_IoT) | Monitors a water tank and rain, controls irrigation and cleans a solar panel from a web and mobile app | ESP32, Firebase, React, Expo |
+| [ATmega32 Audio Board PCB](https://github.com/achrefslim/ATmega32_Audio_Board_PCB) | Two layer audio board with SPI flash, analog filter and amplifier | Altium Designer, AVR |
+| [QA Smart Assistant Extension](https://github.com/achrefslim/QA_Smart_Assistant_Extension) | Records test sessions, transcribes the voice and writes AI QA reports, with Jira and ClickUp export | TypeScript, Whisper, Gemini, Ollama |
+| [IVISion Test Script Generator](https://github.com/achrefslim/IVISion_Test_Script_Generator) | Turns cable harness wiring lists into cable tester programs | Python, PyQt6, pandas |
+| [Smart Clustering Bioimpedance Mesh](https://github.com/achrefslim/smart-clustering-bioimpedance-mesh) | Clustering and sleep scheduling for a BLE bioimpedance sensor network | Python, simulation |
+| [LabVIEW Elevator Control](https://github.com/achrefslim/LabVIEW_Elevator_Control) | Three floor elevator controller built as a state machine | LabVIEW |
+
+## 🧰 Languages and tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,dart,html,css" alt="languages"/>
+</p>
+
+**Embedded, IoT and hardware**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,firebase,linux" alt="embedded"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="40"/>
+  <img src="https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium" height="40"/>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW" height="40"/>
+</p>
+
+**AI and data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="ai"/>
+</p>
+
+**Web, mobile and backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,flutter,mysql,mongodb,postgres,git,figma" alt="web"/>
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=achrefslim&theme=tokyonight" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=achrefslim&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=achrefslim&theme=tokyonight" alt="Repos per language" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=achrefslim&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+⚡ Fun fact: I am a professional PowerPoint user.
